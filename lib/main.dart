@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             CircularProgressIndicator(),
             Text(
-              '$_counter',
+              '$_counter heloo',
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
